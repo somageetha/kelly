@@ -1,3 +1,2 @@
 HELLO this is firsst linet in sample3.txt
 hi this is 2nd linefrom dev
-ading 3rdline to check on revert
