@@ -1,1 +1,1 @@
-helo htis is firsst linet in sample3.txt
+HELLO htis is firsst linet in sample3.txt
